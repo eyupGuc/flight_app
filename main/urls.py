@@ -44,6 +44,9 @@ urlpatterns = [
 ]
 
 
+#1:40 dk 
+
+
 
 
 
